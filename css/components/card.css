@@ -1,0 +1,29 @@
+.card {
+	padding: 31px;
+    background: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: left;
+    box-shadow: 20px 20px 60px #4bb2bf;
+    border-radius: 3px;
+    margin: 10px auto;
+}
+
+.card img {
+	width: 400px;
+	border-radius: 3px;
+	box-shadow: 10px 10px 50px #122f33;
+}
+
+.card h3 {
+	width: 500px;
+	text-align: center;
+	color: #456d80;
+	margin-right: 30px;
+    margin-left: 30px;
+    size: 22px;
+}
+
+.card a {
+ 	width: 400px;
+}
